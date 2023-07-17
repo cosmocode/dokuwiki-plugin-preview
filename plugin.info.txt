@@ -1,0 +1,7 @@
+base   preview
+author Andreas Gohr
+email  gohr@cosmocode.de
+date   2023-07-17
+name   preview plugin
+desc   Show a preview popup on link hover
+url    https://www.dokuwiki.org/plugin:preview
